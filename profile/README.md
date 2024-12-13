@@ -1,9 +1,8 @@
 # My Little Frame
-![mylittleframe](https://github.com/user-attachments/assets/d31657d4-456d-42da-a864-61ad4b253959)
+![mylittleframe](https://github.com/user-attachments/assets/59ea3303-8d2f-40c5-9703-1a124602257d)
 
 ## 1. 프로젝트 개요
-[사이트 바로가기](mylittlefra.me)
-
+[사이트 바로가기](https://mylittlefra.me/)
 > My Little Frame은 단순한 리뷰를 넘어, 사용자들이 영화 속 한 장면에 들어가는 듯한 특별한 경험을 제공합니다.
 >영화의 명장면을 배경으로 사진을 찍고 자신만의 포토카드를 만들어보세요!
 
@@ -65,13 +64,22 @@
 <img width="1083" alt="System Architecture" src="https://github.com/user-attachments/assets/8c07b10c-eb3a-4648-b0b8-396b36530930">
 
 ## 2. 주요 기능
-![Group 475](https://github.com/user-attachments/assets/28620f82-60b4-47e5-9087-9b249bbc1835)
+![feature](https://github.com/hyundai-review/.github/blob/main/profile/images/feature.png?raw=true)
 
+
+
+| Login                                                                                                                                            | Search                                                                                                                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <img alt="login" src="https://github.com/hyundai-review/.github/blob/main/profile/images/login_2.gif?raw=true" /> | <img alt="Git 그래프 변화" src="https://github.com/hyundai-review/.github/blob/main/profile/images/search.gif?raw=true" /> |
+| Movie Detail                                                                                                                                       | Story                                                                                                                                           |
+| <img alt="MovieDetail" src="https://github.com/hyundai-review/.github/blob/main/profile/images/detailpage.gif?raw=true" />                     | <img alt="Story" src="https://github.com/hyundai-review/.github/blob/main/profile/images/story.gif?raw=true" />                         |
+| Create Review                                                                                                                                      | Mypage                                                                                                                                           |
+| <img alt="CreateReview" src="https://github.com/hyundai-review/.github/blob/main/profile/images/camera.gif?raw=true"  />                     | <img alt="Mypage" src="https://github.com/hyundai-review/.github/blob/main/profile/images/mypage.gif?raw=true" />                         |
 
 ## 🖐️ 팀원 소개
 
 |                                                  윤서진                                                   |                                                  곽혜정                                                   |                                                  정세진                                                   |                                                  정한얼                                                   |                                                  여진홍                                                   |
 | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | <img src="https://github.com/user-attachments/assets/3b706366-6ad6-4843-a43f-836e69b0bf24" width="120" /> | <img src="https://github.com/user-attachments/assets/767e78d4-30b6-490a-82fc-e55a9ffdc7f2" width="120" /> | <img src="https://github.com/user-attachments/assets/165a185a-1ea3-4bd2-a328-e189eb98bd67" width="120" /> | <img src="https://github.com/user-attachments/assets/f380b426-ea64-444b-9902-85c99955f47b" width="120" /> | <img src="https://github.com/user-attachments/assets/9828fe7b-1615-4d96-9257-e45ca81157b1" width="120" /> |
-|                                               **FE/Infra**                                                |                                                  **FE**                                                   |                                                  **FE**                                                   |                                               **BE//Infra**                                               |                                                  **BE**                                                   |
+|                                               **FE/Infra**                                                |                                                  **FE**                                                   |                                                  **FE**                                                   |                                               **BE/Design/Infra**                                               |                                                  **BE**                                                   |
 |                                    [@jini9](https://github.com/jini9)                                     |                                 [@softourr](https://github.com/softourr)                                  |                                  [@jsj7878](https://github.com/jsj7878)                                   |                                   [@Haneol](https://github.com/Haneol)                                    |                                  [@zlnongi](https://github.com/zlnongi)                                   |
