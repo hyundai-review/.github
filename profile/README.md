@@ -70,11 +70,11 @@
 
 | Login                                                                                                                                            | Search                                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img alt="login" src="https://github.com/hyundai-review/.github/blob/main/profile/images/login_2.gif?raw=true" /> | <img alt="Git 그래프 변화" src="https://github.com/hyundai-review/.github/blob/main/profile/images/search.gif?raw=true" /> |
+| <img alt="login" src="https://github.com/hyundai-review/.github/blob/main/profile/images/login_2.gif" /> | <img alt="Git 그래프 변화" src="https://github.com/hyundai-review/.github/blob/main/profile/images/search.gif" /> |
 | Movie Detail                                                                                                                                       | Story                                                                                                                                           |
-| <img alt="MovieDetail" src="https://github.com/hyundai-review/.github/blob/main/profile/images/detailpage.gif?raw=true" />                     | <img alt="Story" src="https://github.com/hyundai-review/.github/blob/main/profile/images/story.gif?raw=true" />                         |
+| <img alt="MovieDetail" src="https://github.com/hyundai-review/.github/blob/main/profile/images/detailpage.gif" />                     | <img alt="Story" src="https://github.com/hyundai-review/.github/blob/main/profile/images/story.gif" />                         |
 | Create Review                                                                                                                                      | Mypage                                                                                                                                           |
-| <img alt="CreateReview" src="https://github.com/hyundai-review/.github/blob/main/profile/images/camera.gif?raw=true"  />                     | <img alt="Mypage" src="https://github.com/hyundai-review/.github/blob/main/profile/images/mypage.gif?raw=true" />                         |
+| <img alt="CreateReview" src="https://github.com/hyundai-review/.github/blob/main/profile/images/camera.gif"  />                     | <img alt="Mypage" src="https://github.com/hyundai-review/.github/blob/main/profile/images/mypage.gif" />                         |
 
 ## 🖐️ 팀원 소개
 
