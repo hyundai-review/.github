@@ -66,8 +66,6 @@
 ## 2. 주요 기능
 ![feature](https://github.com/hyundai-review/.github/blob/main/profile/images/feature.png?raw=true)
 
-
-
 | Login                                                                                                             | Search                                                                                                            |
 | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | <img alt="login" src="https://github.com/hyundai-review/.github/blob/main/profile/images/login_2.gif" />          | <img alt="Git 그래프 변화" src="https://github.com/hyundai-review/.github/blob/main/profile/images/search.gif" /> |
@@ -75,6 +73,12 @@
 | <img alt="MovieDetail" src="https://github.com/hyundai-review/.github/blob/main/profile/images/detailpage.gif" /> | <img alt="Story" src="https://github.com/hyundai-review/.github/blob/main/profile/images/story.gif" />            |
 | Create Review                                                                                                     | Mypage                                                                                                            |
 | <img alt="CreateReview" src="https://github.com/hyundai-review/.github/blob/main/profile/images/camera.gif"  />   | <img alt="Mypage" src="https://github.com/hyundai-review/.github/blob/main/profile/images/mypage.gif" />          |
+
+### Responsive View
+| Responsive                                                                                                        |
+| ----------------------------------------------------------------------------------------------------------------- |
+| <img alt="Responsive" src="https://github.com/hyundai-review/.github/blob/main/profile/images/responsive.gif" />  |
+
 
 ## 🖐️ 팀원 소개
 
